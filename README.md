@@ -14,7 +14,7 @@ using JavaScript, TypeScript, ReactJS, and NodeJS.
 - Instagram: [instagram.com/carlos.agdu][4]
 
 [1]:
-  https://www.carlosaguilard.me/
+  https://www.carlosagdu.com/
 [2]: https://www.linkedin.com/in/carlosagdu/
 [3]: https://twitter.com/Carlosagdu
 [4]: https://www.instagram.com/carlos.agdu
